@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "365452000776",
+    "firebase_url": "https://flutter-updatedb-default-rtdb.firebaseio.com",
+    "project_id": "flutter-updatedb",
+    "storage_bucket": "flutter-updatedb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:365452000776:android:9863cedb48c790b2eb5bbd",
+        "android_client_info": {
+          "package_name": "com.sarthakj.shop_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "365452000776-gn52dpv24j97vfahu2sr91l8co1of2d2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sarthakj.shop_app",
+            "certificate_hash": "740926279da5b57569045691373fc7fe22a87573"
+          }
+        },
+        {
+          "client_id": "365452000776-oe4ovag6m1ulkp3n7kce9euulndk6k98.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4C4Abob4r5bynuKP_es-2h3SmxxbLyqc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "365452000776-oe4ovag6m1ulkp3n7kce9euulndk6k98.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
